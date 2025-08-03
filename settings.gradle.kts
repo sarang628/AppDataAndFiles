@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AppDataAndFiles"
 include(":app")
+include(":library")
